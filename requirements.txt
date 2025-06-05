@@ -1,0 +1,30 @@
+# Web Framework
+Flask
+flask-cors
+python-dotenv
+
+# PDF Processing & OCR
+pypdf
+pdf2image
+pytesseract
+
+# Language Tools
+langdetect
+
+# AI Integration
+huggingface_hub
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-ollama
+openai
+google-generativeai
+
+# Vector Database
+faiss-cpu
+
+# Web Scraping & Automation (for case finder)
+selenium
+webdriver-manager
+beautifulsoup4
